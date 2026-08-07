@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T01:59:58.005Z",
+  "generatedAt": "2026-08-07T04:26:04.330Z",
   "games": [
     {
       "away": "CAR",
       "home": "ARI",
-      "ascore": "17",
-      "hscore": "17",
-      "status": "Q3 · 6:50",
-      "live": true
+      "ascore": "33",
+      "hscore": "30",
+      "status": "FINAL",
+      "live": false
     }
   ]
 }
