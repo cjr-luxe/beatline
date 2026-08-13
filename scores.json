@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-13T22:29:03.784Z",
+  "generatedAt": "2026-08-13T23:29:42.702Z",
   "games": [
     {
       "away": "DET",
       "home": "CIN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 7:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "0",
+      "status": "Q1 · 5:06",
+      "live": true
     },
     {
       "away": "GB",
       "home": "PIT",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 7:00",
-      "live": false
+      "ascore": "3",
+      "hscore": "0",
+      "status": "Q1 · 6:59",
+      "live": true
     },
     {
       "away": "IND",
