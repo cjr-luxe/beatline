@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-14T03:19:01.870Z",
+  "generatedAt": "2026-08-14T05:23:26.035Z",
   "games": [
     {
-      "away": "TEN",
-      "home": "SF",
-      "ascore": "16",
-      "hscore": "10",
-      "status": "Q3 · 2:09",
-      "live": true
+      "away": "DEN",
+      "home": "ATL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "FRI 7:00",
+      "live": false
+    },
+    {
+      "away": "TB",
+      "home": "NYJ",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "FRI 7:00",
+      "live": false
+    },
+    {
+      "away": "MIA",
+      "home": "WSH",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "FRI 7:00",
+      "live": false
     },
     {
       "away": "DET",
@@ -50,27 +66,11 @@
       "live": false
     },
     {
-      "away": "DEN",
-      "home": "ATL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "FRI 7:00",
-      "live": false
-    },
-    {
-      "away": "TB",
-      "home": "NYJ",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "FRI 7:00",
-      "live": false
-    },
-    {
-      "away": "MIA",
-      "home": "WSH",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "FRI 7:00",
+      "away": "TEN",
+      "home": "SF",
+      "ascore": "19",
+      "hscore": "13",
+      "status": "FINAL",
       "live": false
     },
     {
