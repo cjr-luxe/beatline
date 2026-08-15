@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-15T16:09:54.032Z",
+  "generatedAt": "2026-08-15T17:10:52.762Z",
   "games": [
     {
       "away": "CAR",
       "home": "BUF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 1:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "3",
+      "status": "Q1 · 11:22",
+      "live": true
     },
     {
       "away": "CLE",
       "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 1:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "0",
+      "status": "Q1 · 12:00",
+      "live": true
     },
     {
       "away": "MIN",
       "home": "NYG",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 1:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "0",
+      "status": "Q1 · 12:54",
+      "live": true
     },
     {
       "away": "LAR",
