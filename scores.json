@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T02:06:34.631Z",
+  "generatedAt": "2026-08-15T03:28:42.055Z",
   "games": [
     {
       "away": "DEN",
       "home": "ATL",
       "ascore": "27",
       "hscore": "7",
-      "status": "Q4 · 1:48",
-      "live": true
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "TB",
