@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-15T00:32:11.291Z",
+  "generatedAt": "2026-08-15T02:06:34.631Z",
   "games": [
     {
       "away": "DEN",
       "home": "ATL",
-      "ascore": "24",
-      "hscore": "0",
-      "status": "Q2 · 0:45",
+      "ascore": "27",
+      "hscore": "7",
+      "status": "Q4 · 1:48",
       "live": true
     },
     {
       "away": "TB",
       "home": "NYJ",
-      "ascore": "10",
-      "hscore": "13",
-      "status": "HALF",
-      "live": true
+      "ascore": "24",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "MIA",
       "home": "WSH",
       "ascore": "7",
-      "hscore": "17",
-      "status": "HALF",
-      "live": true
+      "hscore": "20",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "DET",
