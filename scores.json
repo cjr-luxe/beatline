@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-15T20:09:36.401Z",
+  "generatedAt": "2026-08-15T21:10:42.883Z",
   "games": [
+    {
+      "away": "LAR",
+      "home": "KC",
+      "ascore": "6",
+      "hscore": "3",
+      "status": "Q2 · 2:19",
+      "live": true
+    },
+    {
+      "away": "JAX",
+      "home": "NO",
+      "ascore": "6",
+      "hscore": "10",
+      "status": "Q2 · 5:37",
+      "live": true
+    },
     {
       "away": "CAR",
       "home": "BUF",
@@ -24,22 +40,6 @@
       "hscore": "10",
       "status": "FINAL",
       "live": false
-    },
-    {
-      "away": "LAR",
-      "home": "KC",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 13:35",
-      "live": true
-    },
-    {
-      "away": "JAX",
-      "home": "NO",
-      "ascore": "0",
-      "hscore": "7",
-      "status": "Q1 · 14:39",
-      "live": true
     },
     {
       "away": "PHI",
