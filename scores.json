@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-15T22:08:48.172Z",
+  "generatedAt": "2026-08-15T23:09:39.117Z",
   "games": [
     {
       "away": "LAR",
       "home": "KC",
-      "ascore": "6",
-      "hscore": "9",
-      "status": "Q3 · 1:20",
-      "live": true
+      "ascore": "20",
+      "hscore": "12",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "JAX",
       "home": "NO",
-      "ascore": "14",
+      "ascore": "24",
       "hscore": "20",
-      "status": "Q3 · 7:37",
+      "status": "Q4 · 0:42",
       "live": true
     },
     {
@@ -44,10 +44,10 @@
     {
       "away": "PHI",
       "home": "BAL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 7:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "0",
+      "status": "Q1 · 14:30",
+      "live": true
     },
     {
       "away": "DAL",
