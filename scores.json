@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-08-16T02:14:27.064Z",
+  "generatedAt": "2026-08-16T03:37:58.539Z",
   "games": [
-    {
-      "away": "DAL",
-      "home": "SEA",
-      "ascore": "17",
-      "hscore": "7",
-      "status": "Q4 · 15:00",
-      "live": true
-    },
     {
       "away": "CAR",
       "home": "BUF",
@@ -54,6 +46,14 @@
       "home": "BAL",
       "ascore": "7",
       "hscore": "24",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "DAL",
+      "home": "SEA",
+      "ascore": "17",
+      "hscore": "7",
       "status": "FINAL",
       "live": false
     },
