@@ -1,62 +1,6 @@
 {
-  "generatedAt": "2026-08-16T03:37:58.539Z",
+  "generatedAt": "2026-08-16T04:24:02.034Z",
   "games": [
-    {
-      "away": "CAR",
-      "home": "BUF",
-      "ascore": "14",
-      "hscore": "29",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CLE",
-      "home": "CHI",
-      "ascore": "10",
-      "hscore": "34",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "MIN",
-      "home": "NYG",
-      "ascore": "13",
-      "hscore": "10",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "LAR",
-      "home": "KC",
-      "ascore": "20",
-      "hscore": "12",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "JAX",
-      "home": "NO",
-      "ascore": "24",
-      "hscore": "20",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "PHI",
-      "home": "BAL",
-      "ascore": "7",
-      "hscore": "24",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "DAL",
-      "home": "SEA",
-      "ascore": "17",
-      "hscore": "7",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "DET",
       "home": "CIN",
@@ -126,6 +70,62 @@
       "home": "WSH",
       "ascore": "7",
       "hscore": "20",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CAR",
+      "home": "BUF",
+      "ascore": "14",
+      "hscore": "29",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CLE",
+      "home": "CHI",
+      "ascore": "10",
+      "hscore": "34",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "MIN",
+      "home": "NYG",
+      "ascore": "13",
+      "hscore": "10",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LAR",
+      "home": "KC",
+      "ascore": "20",
+      "hscore": "12",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "JAX",
+      "home": "NO",
+      "ascore": "24",
+      "hscore": "20",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "PHI",
+      "home": "BAL",
+      "ascore": "7",
+      "hscore": "24",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "DAL",
+      "home": "SEA",
+      "ascore": "17",
+      "hscore": "7",
       "status": "FINAL",
       "live": false
     }
