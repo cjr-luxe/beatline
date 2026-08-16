@@ -1,20 +1,12 @@
 {
-  "generatedAt": "2026-08-16T00:33:09.665Z",
+  "generatedAt": "2026-08-16T02:14:27.064Z",
   "games": [
-    {
-      "away": "PHI",
-      "home": "BAL",
-      "ascore": "0",
-      "hscore": "7",
-      "status": "HALF",
-      "live": true
-    },
     {
       "away": "DAL",
       "home": "SEA",
-      "ascore": "0",
+      "ascore": "17",
       "hscore": "7",
-      "status": "Q1 · 4:16",
+      "status": "Q4 · 15:00",
       "live": true
     },
     {
@@ -54,6 +46,14 @@
       "home": "NO",
       "ascore": "24",
       "hscore": "20",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "PHI",
+      "home": "BAL",
+      "ascore": "7",
+      "hscore": "24",
       "status": "FINAL",
       "live": false
     },
