@@ -1,21 +1,13 @@
 {
-  "generatedAt": "2026-08-21T03:40:12.526Z",
+  "generatedAt": "2026-08-21T04:26:47.431Z",
   "games": [
     {
       "away": "SF",
       "home": "LAC",
-      "ascore": "20",
-      "hscore": "3",
-      "status": "HALF",
+      "ascore": "27",
+      "hscore": "9",
+      "status": "Q3 · 2:09",
       "live": true
-    },
-    {
-      "away": "LV",
-      "home": "HOU",
-      "ascore": "22",
-      "hscore": "20",
-      "status": "FINAL",
-      "live": false
     },
     {
       "away": "NYJ",
@@ -39,6 +31,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "FRI 9:00",
+      "live": false
+    },
+    {
+      "away": "LV",
+      "home": "HOU",
+      "ascore": "22",
+      "hscore": "20",
+      "status": "FINAL",
       "live": false
     },
     {
