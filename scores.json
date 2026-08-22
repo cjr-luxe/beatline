@@ -1,46 +1,6 @@
 {
-  "generatedAt": "2026-08-22T03:32:51.599Z",
+  "generatedAt": "2026-08-22T04:20:33.008Z",
   "games": [
-    {
-      "away": "GB",
-      "home": "DEN",
-      "ascore": "29",
-      "hscore": "13",
-      "status": "Q4 · 12:31",
-      "live": true
-    },
-    {
-      "away": "NYJ",
-      "home": "PIT",
-      "ascore": "17",
-      "hscore": "0",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CAR",
-      "home": "JAX",
-      "ascore": "34",
-      "hscore": "17",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "LV",
-      "home": "HOU",
-      "ascore": "22",
-      "hscore": "20",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "SF",
-      "home": "LAC",
-      "ascore": "41",
-      "hscore": "17",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "WSH",
       "home": "DET",
@@ -119,6 +79,46 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SAT 10:00",
+      "live": false
+    },
+    {
+      "away": "LV",
+      "home": "HOU",
+      "ascore": "22",
+      "hscore": "20",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "LAC",
+      "ascore": "41",
+      "hscore": "17",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "NYJ",
+      "home": "PIT",
+      "ascore": "17",
+      "hscore": "0",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CAR",
+      "home": "JAX",
+      "ascore": "34",
+      "hscore": "17",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "GB",
+      "home": "DEN",
+      "ascore": "33",
+      "hscore": "13",
+      "status": "FINAL",
       "live": false
     },
     {
