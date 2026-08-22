@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T15:09:10.294Z",
+  "generatedAt": "2026-08-22T16:09:49.004Z",
   "games": [
     {
       "away": "WSH",
       "home": "DET",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 12:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "0",
+      "status": "Q1 · 14:56",
+      "live": true
     },
     {
       "away": "BUF",
