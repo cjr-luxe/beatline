@@ -1,20 +1,12 @@
 {
-  "generatedAt": "2026-08-22T02:07:52.797Z",
+  "generatedAt": "2026-08-22T03:32:51.599Z",
   "games": [
-    {
-      "away": "CAR",
-      "home": "JAX",
-      "ascore": "27",
-      "hscore": "9",
-      "status": "Q4 · 11:26",
-      "live": true
-    },
     {
       "away": "GB",
       "home": "DEN",
-      "ascore": "10",
-      "hscore": "10",
-      "status": "Q2 · 9:57",
+      "ascore": "29",
+      "hscore": "13",
+      "status": "Q4 · 12:31",
       "live": true
     },
     {
@@ -22,6 +14,14 @@
       "home": "PIT",
       "ascore": "17",
       "hscore": "0",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CAR",
+      "home": "JAX",
+      "ascore": "34",
+      "hscore": "17",
       "status": "FINAL",
       "live": false
     },
