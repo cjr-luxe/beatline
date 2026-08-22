@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-22T21:10:33.720Z",
+  "generatedAt": "2026-08-22T22:09:27.087Z",
   "games": [
     {
       "away": "NO",
       "home": "LAR",
       "ascore": "0",
-      "hscore": "10",
-      "status": "Q2 · 4:58",
+      "hscore": "27",
+      "status": "Q3 · 5:32",
       "live": true
     },
     {
       "away": "NYG",
       "home": "MIA",
-      "ascore": "17",
-      "hscore": "0",
-      "status": "Q2 · 5:06",
+      "ascore": "20",
+      "hscore": "3",
+      "status": "Q3 · 6:07",
       "live": true
     },
     {
