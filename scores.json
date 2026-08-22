@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-22T18:12:29.212Z",
+  "generatedAt": "2026-08-22T19:14:26.956Z",
   "games": [
-    {
-      "away": "WSH",
-      "home": "DET",
-      "ascore": "10",
-      "hscore": "13",
-      "status": "Q3 · 0:09",
-      "live": true
-    },
     {
       "away": "BUF",
       "home": "CLE",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 13:31",
+      "ascore": "7",
+      "hscore": "7",
+      "status": "Q2 · 1:20",
       "live": true
     },
     {
       "away": "ATL",
       "home": "IND",
-      "ascore": "17",
+      "ascore": "31",
       "hscore": "6",
-      "status": "Q2 · 7:43",
+      "status": "Q3 · 3:32",
       "live": true
     },
     {
       "away": "BAL",
       "home": "MIN",
-      "ascore": "3",
-      "hscore": "0",
-      "status": "Q2 · 2:00",
+      "ascore": "10",
+      "hscore": "3",
+      "status": "Q3 · 0:00",
       "live": true
+    },
+    {
+      "away": "WSH",
+      "home": "DET",
+      "ascore": "13",
+      "hscore": "17",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "NO",
