@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-22T00:31:44.793Z",
+  "generatedAt": "2026-08-22T02:07:52.797Z",
   "games": [
-    {
-      "away": "NYJ",
-      "home": "PIT",
-      "ascore": "7",
-      "hscore": "0",
-      "status": "HALF",
-      "live": true
-    },
     {
       "away": "CAR",
       "home": "JAX",
-      "ascore": "7",
-      "hscore": "3",
-      "status": "Q2 · 8:38",
+      "ascore": "27",
+      "hscore": "9",
+      "status": "Q4 · 11:26",
       "live": true
     },
     {
       "away": "GB",
       "home": "DEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "FRI 9:00",
+      "ascore": "10",
+      "hscore": "10",
+      "status": "Q2 · 9:57",
+      "live": true
+    },
+    {
+      "away": "NYJ",
+      "home": "PIT",
+      "ascore": "17",
+      "hscore": "0",
+      "status": "FINAL",
       "live": false
     },
     {
