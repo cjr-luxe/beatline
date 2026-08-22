@@ -1,12 +1,20 @@
 {
-  "generatedAt": "2026-08-22T20:09:33.739Z",
+  "generatedAt": "2026-08-22T21:10:33.720Z",
   "games": [
     {
-      "away": "BUF",
-      "home": "CLE",
-      "ascore": "24",
-      "hscore": "7",
-      "status": "Q3 · 2:07",
+      "away": "NO",
+      "home": "LAR",
+      "ascore": "0",
+      "hscore": "10",
+      "status": "Q2 · 4:58",
+      "live": true
+    },
+    {
+      "away": "NYG",
+      "home": "MIA",
+      "ascore": "17",
+      "hscore": "0",
+      "status": "Q2 · 5:06",
       "live": true
     },
     {
@@ -14,6 +22,14 @@
       "home": "DET",
       "ascore": "13",
       "hscore": "17",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "BUF",
+      "home": "CLE",
+      "ascore": "31",
+      "hscore": "7",
       "status": "FINAL",
       "live": false
     },
@@ -32,22 +48,6 @@
       "hscore": "3",
       "status": "FINAL",
       "live": false
-    },
-    {
-      "away": "NO",
-      "home": "LAR",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 14:23",
-      "live": true
-    },
-    {
-      "away": "NYG",
-      "home": "MIA",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 15:00",
-      "live": true
     },
     {
       "away": "CHI",
