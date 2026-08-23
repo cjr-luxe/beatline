@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-08-23T02:17:02.249Z",
+  "generatedAt": "2026-08-23T03:40:12.252Z",
   "games": [
     {
-      "away": "CHI",
-      "home": "CIN",
-      "ascore": "9",
-      "hscore": "27",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "PHI",
-      "home": "NE",
-      "ascore": "21",
-      "hscore": "24",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "KC",
-      "home": "TB",
-      "ascore": "15",
-      "hscore": "16",
-      "status": "Q4 · 7:13",
+      "away": "DAL",
+      "home": "ARI",
+      "ascore": "24",
+      "hscore": "6",
+      "status": "HALF",
       "live": true
     },
     {
@@ -74,12 +58,28 @@
       "live": false
     },
     {
-      "away": "DAL",
-      "home": "ARI",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 9:07",
-      "live": true
+      "away": "CHI",
+      "home": "CIN",
+      "ascore": "9",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "PHI",
+      "home": "NE",
+      "ascore": "21",
+      "hscore": "24",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "KC",
+      "home": "TB",
+      "ascore": "15",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "LV",
