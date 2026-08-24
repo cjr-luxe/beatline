@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T23:10:03.708Z",
+  "generatedAt": "2026-08-24T00:33:10.880Z",
   "games": [
     {
       "away": "SEA",
       "home": "TEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:00",
-      "live": false
+      "ascore": "7",
+      "hscore": "3",
+      "status": "Q1 · 8:02",
+      "live": true
     },
     {
       "away": "LV",
