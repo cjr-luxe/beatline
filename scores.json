@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-08-24T03:43:14.619Z",
+  "generatedAt": "2026-08-24T04:34:04.130Z",
   "games": [
-    {
-      "away": "SEA",
-      "home": "TEN",
-      "ascore": "16",
-      "hscore": "19",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "LV",
       "home": "HOU",
@@ -126,6 +118,14 @@
       "home": "ARI",
       "ascore": "34",
       "hscore": "13",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SEA",
+      "home": "TEN",
+      "ascore": "16",
+      "hscore": "19",
       "status": "FINAL",
       "live": false
     }
