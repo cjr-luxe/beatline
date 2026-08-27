@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T13:14:13.131Z",
+  "generatedAt": "2026-08-27T23:18:04.468Z",
   "games": [
     {
       "away": "PIT",
       "home": "BUF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 7:00",
-      "live": false
+      "ascore": "0",
+      "hscore": "3",
+      "status": "Q1 · 7:16",
+      "live": true
     },
     {
       "away": "NE",
