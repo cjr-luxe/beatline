@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-08-27T23:18:04.468Z",
+  "generatedAt": "2026-08-28T07:21:49.603Z",
   "games": [
-    {
-      "away": "PIT",
-      "home": "BUF",
-      "ascore": "0",
-      "hscore": "3",
-      "status": "Q1 · 7:16",
-      "live": true
-    },
-    {
-      "away": "NE",
-      "home": "CLE",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:00",
-      "live": false
-    },
-    {
-      "away": "SF",
-      "home": "LV",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:00",
-      "live": false
-    },
-    {
-      "away": "LAR",
-      "home": "LAC",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 10:00",
-      "live": false
-    },
     {
       "away": "WSH",
       "home": "BAL",
@@ -111,6 +79,38 @@
       "ascore": "—",
       "hscore": "—",
       "status": "FRI 9:00",
+      "live": false
+    },
+    {
+      "away": "PIT",
+      "home": "BUF",
+      "ascore": "27",
+      "hscore": "28",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "NE",
+      "home": "CLE",
+      "ascore": "13",
+      "hscore": "37",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "LV",
+      "ascore": "18",
+      "hscore": "12",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LAR",
+      "home": "LAC",
+      "ascore": "20",
+      "hscore": "18",
+      "status": "FINAL",
       "live": false
     },
     {
