@@ -1,84 +1,20 @@
 {
-  "generatedAt": "2026-08-29T02:32:03.768Z",
+  "generatedAt": "2026-08-29T09:29:20.813Z",
   "games": [
     {
-      "away": "NYG",
-      "home": "NYJ",
-      "ascore": "23",
-      "hscore": "6",
-      "status": "Q4 · 1:56",
-      "live": true
-    },
-    {
-      "away": "TB",
-      "home": "JAX",
-      "ascore": "0",
-      "hscore": "19",
-      "status": "FINAL",
+      "away": "DET",
+      "home": "IND",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SAT 1:00",
       "live": false
     },
     {
-      "away": "NO",
-      "home": "DAL",
-      "ascore": "24",
-      "hscore": "16",
-      "status": "Q4 · 12:38",
-      "live": true
-    },
-    {
-      "away": "ARI",
-      "home": "GB",
-      "ascore": "31",
-      "hscore": "24",
-      "status": "Q4 · 15:00",
-      "live": true
-    },
-    {
-      "away": "SEA",
-      "home": "KC",
-      "ascore": "9",
-      "hscore": "6",
-      "status": "Q4 · 12:39",
-      "live": true
-    },
-    {
-      "away": "CIN",
-      "home": "PHI",
-      "ascore": "16",
-      "hscore": "13",
-      "status": "Q4 · 11:25",
-      "live": true
-    },
-    {
-      "away": "MIN",
-      "home": "DEN",
-      "ascore": "6",
-      "hscore": "20",
-      "status": "Q2 · 0:22",
-      "live": true
-    },
-    {
-      "away": "WSH",
-      "home": "BAL",
-      "ascore": "3",
-      "hscore": "41",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "ATL",
-      "home": "MIA",
-      "ascore": "17",
-      "hscore": "12",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "HOU",
-      "home": "CAR",
-      "ascore": "13",
-      "hscore": "16",
-      "status": "FINAL",
+      "away": "CHI",
+      "home": "TEN",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SAT 6:00",
       "live": false
     },
     {
@@ -114,19 +50,83 @@
       "live": false
     },
     {
-      "away": "DET",
-      "home": "IND",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 1:00",
+      "away": "WSH",
+      "home": "BAL",
+      "ascore": "3",
+      "hscore": "41",
+      "status": "FINAL",
       "live": false
     },
     {
-      "away": "CHI",
-      "home": "TEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SAT 6:00",
+      "away": "ATL",
+      "home": "MIA",
+      "ascore": "17",
+      "hscore": "12",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "HOU",
+      "home": "CAR",
+      "ascore": "13",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "NYG",
+      "home": "NYJ",
+      "ascore": "23",
+      "hscore": "6",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "TB",
+      "home": "JAX",
+      "ascore": "0",
+      "hscore": "19",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "NO",
+      "home": "DAL",
+      "ascore": "27",
+      "hscore": "24",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "ARI",
+      "home": "GB",
+      "ascore": "38",
+      "hscore": "42",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SEA",
+      "home": "KC",
+      "ascore": "9",
+      "hscore": "9",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CIN",
+      "home": "PHI",
+      "ascore": "30",
+      "hscore": "13",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "MIN",
+      "home": "DEN",
+      "ascore": "6",
+      "hscore": "34",
+      "status": "FINAL",
       "live": false
     }
   ]
