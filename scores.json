@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T17:58:05.205Z",
+  "generatedAt": "2026-08-29T20:19:00.906Z",
   "games": [
     {
       "away": "DET",
       "home": "IND",
-      "ascore": "6",
-      "hscore": "6",
-      "status": "Q2 · 7:37",
-      "live": true
+      "ascore": "25",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "CHI",
