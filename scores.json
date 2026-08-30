@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T22:53:00.807Z",
+  "generatedAt": "2026-08-30T00:51:11.265Z",
   "games": [
     {
       "away": "CHI",
       "home": "TEN",
-      "ascore": "7",
-      "hscore": "6",
-      "status": "Q2 · 13:23",
+      "ascore": "24",
+      "hscore": "15",
+      "status": "Q4 · 3:50",
       "live": true
     },
     {
