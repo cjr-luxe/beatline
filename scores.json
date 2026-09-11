@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-11T01:46:08.440Z",
+  "generatedAt": "2026-09-11T06:44:38.981Z",
   "games": [
-    {
-      "away": "SF",
-      "home": "LAR",
-      "ascore": "10",
-      "hscore": "7",
-      "status": "Q2 · 2:43",
-      "live": true
-    },
     {
       "away": "NE",
       "home": "SEA",
       "ascore": "10",
       "hscore": "13",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "LAR",
+      "ascore": "27",
+      "hscore": "7",
       "status": "FINAL",
       "live": false
     },
