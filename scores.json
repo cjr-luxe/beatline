@@ -1,37 +1,13 @@
 {
-  "generatedAt": "2026-09-13T21:52:28.323Z",
+  "generatedAt": "2026-09-13T23:43:39.053Z",
   "games": [
-    {
-      "away": "MIA",
-      "home": "LV",
-      "ascore": "6",
-      "hscore": "17",
-      "status": "HALF",
-      "live": true
-    },
     {
       "away": "GB",
       "home": "MIN",
-      "ascore": "12",
-      "hscore": "10",
-      "status": "Q2 · 1:55",
-      "live": true
-    },
-    {
-      "away": "WSH",
-      "home": "PHI",
-      "ascore": "9",
-      "hscore": "14",
-      "status": "Q2 · 0:33",
-      "live": true
-    },
-    {
-      "away": "ARI",
-      "home": "LAC",
-      "ascore": "13",
-      "hscore": "7",
-      "status": "HALF",
-      "live": true
+      "ascore": "22",
+      "hscore": "39",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "TB",
@@ -94,6 +70,30 @@
       "home": "HOU",
       "ascore": "36",
       "hscore": "31",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "MIA",
+      "home": "LV",
+      "ascore": "13",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "WSH",
+      "home": "PHI",
+      "ascore": "22",
+      "hscore": "24",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "ARI",
+      "home": "LAC",
+      "ascore": "26",
+      "hscore": "14",
       "status": "FINAL",
       "live": false
     },
