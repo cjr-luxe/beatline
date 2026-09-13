@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-09-13T01:43:09.500Z",
+  "generatedAt": "2026-09-13T06:53:35.413Z",
   "games": [
-    {
-      "away": "NE",
-      "home": "SEA",
-      "ascore": "10",
-      "hscore": "13",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "SF",
-      "home": "LAR",
-      "ascore": "27",
-      "hscore": "7",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "TB",
       "home": "CIN",
@@ -119,6 +103,22 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "NE",
+      "home": "SEA",
+      "ascore": "10",
+      "hscore": "13",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "LAR",
+      "ascore": "27",
+      "hscore": "7",
+      "status": "FINAL",
       "live": false
     },
     {
