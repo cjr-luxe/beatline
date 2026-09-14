@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T23:43:39.053Z",
+  "generatedAt": "2026-09-14T02:01:29.687Z",
   "games": [
     {
-      "away": "GB",
-      "home": "MIN",
-      "ascore": "22",
-      "hscore": "39",
-      "status": "FINAL",
-      "live": false
+      "away": "DAL",
+      "home": "NYG",
+      "ascore": "7",
+      "hscore": "14",
+      "status": "HALF",
+      "live": true
     },
     {
       "away": "TB",
@@ -82,6 +82,14 @@
       "live": false
     },
     {
+      "away": "GB",
+      "home": "MIN",
+      "ascore": "22",
+      "hscore": "39",
+      "status": "FINAL",
+      "live": false
+    },
+    {
       "away": "WSH",
       "home": "PHI",
       "ascore": "22",
@@ -95,14 +103,6 @@
       "ascore": "26",
       "hscore": "14",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "DAL",
-      "home": "NYG",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
       "live": false
     },
     {
