@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-15T01:05:10.562Z",
+  "generatedAt": "2026-09-15T06:52:36.790Z",
   "games": [
-    {
-      "away": "DEN",
-      "home": "KC",
-      "ascore": "7",
-      "hscore": "7",
-      "status": "Q2 · 11:04",
-      "live": true
-    },
     {
       "away": "NE",
       "home": "SEA",
@@ -126,6 +118,14 @@
       "home": "NYG",
       "ascore": "20",
       "hscore": "28",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "DEN",
+      "home": "KC",
+      "ascore": "10",
+      "hscore": "31",
       "status": "FINAL",
       "live": false
     }
