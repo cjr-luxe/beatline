@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T22:56:41.593Z",
+  "generatedAt": "2026-09-15T01:05:10.562Z",
   "games": [
     {
       "away": "DEN",
       "home": "KC",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
-      "live": false
+      "ascore": "7",
+      "hscore": "7",
+      "status": "Q2 · 11:04",
+      "live": true
     },
     {
       "away": "NE",
