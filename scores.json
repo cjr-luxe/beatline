@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-20T16:35:11.452Z",
+  "generatedAt": "2026-09-20T19:08:41.481Z",
   "games": [
     {
       "away": "CAR",
       "home": "ATL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "27",
+      "hscore": "3",
+      "status": "Q3 · 9:38",
+      "live": true
     },
     {
       "away": "MIN",
       "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "6",
+      "hscore": "3",
+      "status": "Q3 · 2:32",
+      "live": true
     },
     {
       "away": "PHI",
       "home": "TEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "17",
+      "hscore": "17",
+      "status": "Q3 · 0:22",
+      "live": true
     },
     {
       "away": "PIT",
       "home": "NE",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "3",
+      "hscore": "10",
+      "status": "Q3 · 2:12",
+      "live": true
     },
     {
       "away": "GB",
       "home": "NYJ",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "7",
+      "hscore": "7",
+      "status": "Q3 · 6:58",
+      "live": true
     },
     {
       "away": "CLE",
       "home": "TB",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "9",
+      "hscore": "16",
+      "status": "Q3 · 3:39",
+      "live": true
     },
     {
       "away": "NO",
       "home": "BAL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "9",
+      "hscore": "17",
+      "status": "Q4 · 15:00",
+      "live": true
     },
     {
       "away": "CIN",
       "home": "HOU",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "10",
+      "hscore": "3",
+      "status": "Q3 · 7:29",
+      "live": true
     },
     {
       "away": "JAX",
