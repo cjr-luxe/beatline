@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-20T02:00:31.342Z",
+  "generatedAt": "2026-09-20T07:31:51.924Z",
   "games": [
-    {
-      "away": "DET",
-      "home": "BUF",
-      "ascore": "31",
-      "hscore": "41",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "CAR",
       "home": "ATL",
@@ -119,6 +111,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "DET",
+      "home": "BUF",
+      "ascore": "31",
+      "hscore": "41",
+      "status": "FINAL",
       "live": false
     },
     {
