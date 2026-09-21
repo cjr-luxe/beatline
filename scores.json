@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-09-21T02:01:06.437Z",
+  "generatedAt": "2026-09-21T08:17:05.771Z",
   "games": [
     {
-      "away": "IND",
-      "home": "KC",
-      "ascore": "20",
-      "hscore": "17",
-      "status": "HALF",
-      "live": true
+      "away": "NYG",
+      "home": "LAR",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "DET",
+      "home": "BUF",
+      "ascore": "31",
+      "hscore": "41",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "CAR",
@@ -114,19 +122,11 @@
       "live": false
     },
     {
-      "away": "DET",
-      "home": "BUF",
-      "ascore": "31",
-      "hscore": "41",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "NYG",
-      "home": "LAR",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
+      "away": "IND",
+      "home": "KC",
+      "ascore": "30",
+      "hscore": "33",
+      "status": "FINAL/OT",
       "live": false
     }
   ]
