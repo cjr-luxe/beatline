@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-22T02:07:35.954Z",
+  "generatedAt": "2026-09-22T08:00:11.207Z",
   "games": [
-    {
-      "away": "NYG",
-      "home": "LAR",
-      "ascore": "3",
-      "hscore": "14",
-      "status": "Q3 · 10:07",
-      "live": true
-    },
     {
       "away": "DET",
       "home": "BUF",
@@ -127,6 +119,14 @@
       "ascore": "30",
       "hscore": "33",
       "status": "FINAL/OT",
+      "live": false
+    },
+    {
+      "away": "NYG",
+      "home": "LAR",
+      "ascore": "6",
+      "hscore": "28",
+      "status": "FINAL",
       "live": false
     }
   ]
