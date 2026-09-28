@@ -1,38 +1,6 @@
 {
-  "generatedAt": "2026-09-27T21:43:07.563Z",
+  "generatedAt": "2026-09-28T00:05:27.680Z",
   "games": [
-    {
-      "away": "ARI",
-      "home": "SF",
-      "ascore": "6",
-      "hscore": "17",
-      "status": "HALF",
-      "live": true
-    },
-    {
-      "away": "MIN",
-      "home": "TB",
-      "ascore": "17",
-      "hscore": "10",
-      "status": "HALF",
-      "live": true
-    },
-    {
-      "away": "BAL",
-      "home": "DAL",
-      "ascore": "17",
-      "hscore": "10",
-      "status": "Q2 · 0:33",
-      "live": true
-    },
-    {
-      "away": "LV",
-      "home": "NO",
-      "ascore": "13",
-      "hscore": "13",
-      "status": "Q2 · 0:42",
-      "live": true
-    },
     {
       "away": "LAC",
       "home": "BUF",
@@ -102,6 +70,38 @@
       "home": "JAX",
       "ascore": "6",
       "hscore": "35",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "ARI",
+      "home": "SF",
+      "ascore": "30",
+      "hscore": "36",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "MIN",
+      "home": "TB",
+      "ascore": "23",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "BAL",
+      "home": "DAL",
+      "ascore": "34",
+      "hscore": "31",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LV",
+      "home": "NO",
+      "ascore": "35",
+      "hscore": "27",
       "status": "FINAL",
       "live": false
     },
