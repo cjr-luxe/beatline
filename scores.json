@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-28T00:05:27.680Z",
+  "generatedAt": "2026-09-28T06:02:50.984Z",
   "games": [
+    {
+      "away": "PHI",
+      "home": "CHI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "ATL",
+      "home": "GB",
+      "ascore": "35",
+      "hscore": "14",
+      "status": "FINAL",
+      "live": false
+    },
     {
       "away": "LAC",
       "home": "BUF",
@@ -108,25 +124,9 @@
     {
       "away": "LAR",
       "home": "DEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
-      "live": false
-    },
-    {
-      "away": "ATL",
-      "home": "GB",
-      "ascore": "35",
-      "hscore": "14",
+      "ascore": "26",
+      "hscore": "30",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "PHI",
-      "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
       "live": false
     }
   ]
