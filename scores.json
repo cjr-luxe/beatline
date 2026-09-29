@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-29T00:41:37.084Z",
+  "generatedAt": "2026-09-29T06:21:07.832Z",
   "games": [
-    {
-      "away": "PHI",
-      "home": "CHI",
-      "ascore": "0",
-      "hscore": "7",
-      "status": "Q1 · 2:08",
-      "live": true
-    },
     {
       "away": "ATL",
       "home": "GB",
@@ -126,6 +118,14 @@
       "home": "DEN",
       "ascore": "26",
       "hscore": "30",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "PHI",
+      "home": "CHI",
+      "ascore": "7",
+      "hscore": "27",
       "status": "FINAL",
       "live": false
     }
