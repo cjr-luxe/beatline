@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T01:09:52.014Z",
+  "generatedAt": "2026-10-02T07:39:18.816Z",
   "games": [
     {
       "away": "PIT",
       "home": "CLE",
-      "ascore": "7",
-      "hscore": "7",
-      "status": "Q2 · 10:38",
-      "live": true
+      "ascore": "24",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "IND",
