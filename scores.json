@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-04T00:11:13.297Z",
+  "generatedAt": "2026-10-04T06:29:07.024Z",
   "games": [
-    {
-      "away": "PIT",
-      "home": "CLE",
-      "ascore": "24",
-      "hscore": "27",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "IND",
       "home": "WSH",
@@ -119,6 +111,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "PIT",
+      "home": "CLE",
+      "ascore": "24",
+      "hscore": "27",
+      "status": "FINAL",
       "live": false
     },
     {
