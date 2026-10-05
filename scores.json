@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-05T02:42:08.132Z",
+  "generatedAt": "2026-10-05T09:43:01.613Z",
   "games": [
     {
-      "away": "DET",
-      "home": "CAR",
-      "ascore": "19",
-      "hscore": "29",
-      "status": "Q3 · 0:00",
-      "live": true
+      "away": "ATL",
+      "home": "NO",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "PIT",
+      "home": "CLE",
+      "ascore": "24",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "IND",
@@ -114,19 +122,11 @@
       "live": false
     },
     {
-      "away": "PIT",
-      "home": "CLE",
-      "ascore": "24",
-      "hscore": "27",
+      "away": "DET",
+      "home": "CAR",
+      "ascore": "26",
+      "hscore": "32",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "ATL",
-      "home": "NO",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
       "live": false
     }
   ]
