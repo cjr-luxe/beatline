@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-06T00:26:17.408Z",
+  "generatedAt": "2026-10-06T06:57:53.448Z",
   "games": [
-    {
-      "away": "ATL",
-      "home": "NO",
-      "ascore": "7",
-      "hscore": "0",
-      "status": "Q1 · 13:25",
-      "live": true
-    },
     {
       "away": "PIT",
       "home": "CLE",
@@ -126,6 +118,14 @@
       "home": "CAR",
       "ascore": "26",
       "hscore": "32",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "ATL",
+      "home": "NO",
+      "ascore": "45",
+      "hscore": "24",
       "status": "FINAL",
       "live": false
     }
