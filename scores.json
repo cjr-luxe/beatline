@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T18:54:59.065Z",
+  "generatedAt": "2026-10-06T00:26:17.408Z",
   "games": [
     {
       "away": "ATL",
       "home": "NO",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
-      "live": false
+      "ascore": "7",
+      "hscore": "0",
+      "status": "Q1 · 13:25",
+      "live": true
     },
     {
       "away": "PIT",
