@@ -1,76 +1,76 @@
 {
-  "generatedAt": "2026-10-11T16:00:17.723Z",
+  "generatedAt": "2026-10-11T19:57:24.347Z",
   "games": [
-    {
-      "away": "PHI",
-      "home": "JAX",
-      "ascore": "14",
-      "hscore": "10",
-      "status": "Q3 · 3:48",
-      "live": true
-    },
     {
       "away": "CHI",
       "home": "GB",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "7",
+      "hscore": "31",
+      "status": "Q4 · 2:00",
+      "live": true
     },
     {
       "away": "HOU",
       "home": "TEN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
+      "ascore": "26",
+      "hscore": "3",
+      "status": "FINAL",
       "live": false
     },
     {
       "away": "CIN",
       "home": "MIA",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "28",
+      "hscore": "18",
+      "status": "Q4 · 2:24",
+      "live": true
     },
     {
       "away": "LV",
       "home": "NE",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "17",
+      "hscore": "45",
+      "status": "Q4 · 4:05",
+      "live": true
     },
     {
       "away": "MIN",
       "home": "NO",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
+      "ascore": "23",
+      "hscore": "13",
+      "status": "FINAL",
       "live": false
     },
     {
       "away": "CLE",
       "home": "NYJ",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "12",
+      "hscore": "17",
+      "status": "Q4 · 3:01",
+      "live": true
     },
     {
       "away": "IND",
       "home": "PIT",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "22",
+      "hscore": "34",
+      "status": "Q4 · 3:43",
+      "live": true
     },
     {
       "away": "NYG",
       "home": "WSH",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
+      "ascore": "20",
+      "hscore": "27",
+      "status": "Q4 · 5:07",
+      "live": true
+    },
+    {
+      "away": "PHI",
+      "home": "JAX",
+      "ascore": "17",
+      "hscore": "19",
+      "status": "FINAL",
       "live": false
     },
     {
