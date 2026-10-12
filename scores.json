@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-10-11T23:20:40.196Z",
+  "generatedAt": "2026-10-12T02:57:32.005Z",
   "games": [
     {
-      "away": "DEN",
-      "home": "LAC",
-      "ascore": "23",
-      "hscore": "17",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "DET",
-      "home": "ARI",
-      "ascore": "45",
+      "away": "BAL",
+      "home": "ATL",
+      "ascore": "15",
       "hscore": "20",
-      "status": "Q4 · 2:11",
-      "live": true
-    },
-    {
-      "away": "SF",
-      "home": "SEA",
-      "ascore": "29",
-      "hscore": "26",
-      "status": "Q4 · 9:04",
+      "status": "Q4 · 6:23",
       "live": true
     },
     {
@@ -98,11 +82,27 @@
       "live": false
     },
     {
-      "away": "BAL",
-      "home": "ATL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
+      "away": "DEN",
+      "home": "LAC",
+      "ascore": "23",
+      "hscore": "17",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "DET",
+      "home": "ARI",
+      "ascore": "45",
+      "hscore": "21",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "SEA",
+      "ascore": "32",
+      "hscore": "29",
+      "status": "FINAL",
       "live": false
     },
     {
