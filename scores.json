@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-13T02:17:42.446Z",
+  "generatedAt": "2026-10-13T09:49:16.997Z",
   "games": [
-    {
-      "away": "BUF",
-      "home": "LAR",
-      "ascore": "13",
-      "hscore": "14",
-      "status": "Q3 · 5:11",
-      "live": true
-    },
     {
       "away": "TB",
       "home": "DAL",
@@ -118,6 +110,14 @@
       "home": "ATL",
       "ascore": "30",
       "hscore": "23",
+      "status": "FINAL/OT",
+      "live": false
+    },
+    {
+      "away": "BUF",
+      "home": "LAR",
+      "ascore": "37",
+      "hscore": "34",
       "status": "FINAL/OT",
       "live": false
     }
