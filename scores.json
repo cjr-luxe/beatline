@@ -1,30 +1,6 @@
 {
-  "generatedAt": "2026-10-18T22:00:03.798Z",
+  "generatedAt": "2026-10-18T23:56:34.813Z",
   "games": [
-    {
-      "away": "ARI",
-      "home": "LAR",
-      "ascore": "12",
-      "hscore": "9",
-      "status": "Q3 · 2:39",
-      "live": true
-    },
-    {
-      "away": "LAC",
-      "home": "KC",
-      "ascore": "3",
-      "hscore": "19",
-      "status": "HALF",
-      "live": true
-    },
-    {
-      "away": "BUF",
-      "home": "LV",
-      "ascore": "13",
-      "hscore": "13",
-      "status": "Q3 · 14:53",
-      "live": true
-    },
     {
       "away": "HOU",
       "home": "JAX",
@@ -87,6 +63,30 @@
       "ascore": "26",
       "hscore": "19",
       "status": "FINAL/OT",
+      "live": false
+    },
+    {
+      "away": "ARI",
+      "home": "LAR",
+      "ascore": "18",
+      "hscore": "16",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LAC",
+      "home": "KC",
+      "ascore": "6",
+      "hscore": "22",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "BUF",
+      "home": "LV",
+      "ascore": "33",
+      "hscore": "30",
+      "status": "FINAL",
       "live": false
     },
     {
