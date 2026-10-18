@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-18T01:49:51.148Z",
+  "generatedAt": "2026-10-18T06:43:53.945Z",
   "games": [
-    {
-      "away": "SEA",
-      "home": "DEN",
-      "ascore": "14",
-      "hscore": "17",
-      "status": "FINAL/OT",
-      "live": false
-    },
     {
       "away": "HOU",
       "home": "JAX",
@@ -103,6 +95,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "SEA",
+      "home": "DEN",
+      "ascore": "14",
+      "hscore": "17",
+      "status": "FINAL/OT",
       "live": false
     },
     {
