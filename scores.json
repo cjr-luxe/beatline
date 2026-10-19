@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-18T23:56:34.813Z",
+  "generatedAt": "2026-10-19T02:26:46.995Z",
   "games": [
+    {
+      "away": "DAL",
+      "home": "GB",
+      "ascore": "7",
+      "hscore": "17",
+      "status": "Q3 · 5:13",
+      "live": true
+    },
     {
       "away": "HOU",
       "home": "JAX",
@@ -87,14 +95,6 @@
       "ascore": "33",
       "hscore": "30",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "DAL",
-      "home": "GB",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
       "live": false
     },
     {
