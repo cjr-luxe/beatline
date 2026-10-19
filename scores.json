@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-19T02:26:46.995Z",
+  "generatedAt": "2026-10-19T08:11:08.484Z",
   "games": [
     {
-      "away": "DAL",
-      "home": "GB",
-      "ascore": "7",
+      "away": "WSH",
+      "home": "SF",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "SEA",
+      "home": "DEN",
+      "ascore": "14",
       "hscore": "17",
-      "status": "Q3 · 5:13",
-      "live": true
+      "status": "FINAL/OT",
+      "live": false
     },
     {
       "away": "HOU",
@@ -98,19 +106,11 @@
       "live": false
     },
     {
-      "away": "SEA",
-      "home": "DEN",
-      "ascore": "14",
-      "hscore": "17",
-      "status": "FINAL/OT",
-      "live": false
-    },
-    {
-      "away": "WSH",
-      "home": "SF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
+      "away": "DAL",
+      "home": "GB",
+      "ascore": "13",
+      "hscore": "23",
+      "status": "FINAL",
       "live": false
     }
   ]
