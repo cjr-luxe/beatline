@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T00:00:22.643Z",
+  "generatedAt": "2026-10-20T03:46:04.482Z",
   "games": [
     {
       "away": "WSH",
       "home": "SF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
+      "ascore": "17",
+      "hscore": "23",
+      "status": "FINAL",
       "live": false
     },
     {
