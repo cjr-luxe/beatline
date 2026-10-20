@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-20T03:46:04.482Z",
+  "generatedAt": "2026-10-20T08:57:45.178Z",
   "games": [
-    {
-      "away": "WSH",
-      "home": "SF",
-      "ascore": "17",
-      "hscore": "23",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "SEA",
       "home": "DEN",
@@ -109,6 +101,14 @@
       "away": "DAL",
       "home": "GB",
       "ascore": "13",
+      "hscore": "23",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "WSH",
+      "home": "SF",
+      "ascore": "17",
       "hscore": "23",
       "status": "FINAL",
       "live": false
