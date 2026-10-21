@@ -1,116 +1,116 @@
 {
-  "generatedAt": "2026-10-21T00:22:42.026Z",
+  "generatedAt": "2026-10-21T05:29:01.279Z",
   "games": [
     {
-      "away": "SEA",
-      "home": "DEN",
-      "ascore": "14",
-      "hscore": "17",
-      "status": "FINAL/OT",
-      "live": false
-    },
-    {
-      "away": "HOU",
-      "home": "JAX",
-      "ascore": "34",
-      "hscore": "31",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CHI",
-      "home": "ATL",
-      "ascore": "31",
-      "hscore": "23",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "BAL",
-      "home": "CLE",
-      "ascore": "10",
-      "hscore": "13",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "TEN",
-      "home": "IND",
-      "ascore": "26",
-      "hscore": "20",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "NYJ",
-      "home": "NE",
-      "ascore": "19",
-      "hscore": "26",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "NO",
-      "home": "NYG",
-      "ascore": "34",
-      "hscore": "27",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CAR",
-      "home": "PHI",
-      "ascore": "25",
-      "hscore": "14",
-      "status": "FINAL",
+      "away": "NE",
+      "home": "CHI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "THU 8:15",
       "live": false
     },
     {
       "away": "PIT",
-      "home": "TB",
-      "ascore": "26",
-      "hscore": "19",
-      "status": "FINAL/OT",
+      "home": "NO",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 9:30",
       "live": false
     },
     {
-      "away": "ARI",
-      "home": "LAR",
-      "ascore": "18",
-      "hscore": "16",
-      "status": "FINAL",
+      "away": "SF",
+      "home": "ATL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "LAC",
-      "home": "KC",
-      "ascore": "6",
-      "hscore": "22",
-      "status": "FINAL",
+      "away": "CLE",
+      "home": "TEN",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "BUF",
+      "away": "IND",
+      "home": "MIN",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "MIA",
+      "home": "NYJ",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "TB",
+      "home": "CAR",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "CIN",
+      "home": "BAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "NYG",
+      "home": "HOU",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "DEN",
+      "home": "ARI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:05",
+      "live": false
+    },
+    {
+      "away": "GB",
+      "home": "DET",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:25",
+      "live": false
+    },
+    {
+      "away": "LAR",
       "home": "LV",
-      "ascore": "33",
-      "hscore": "30",
-      "status": "FINAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:25",
+      "live": false
+    },
+    {
+      "away": "KC",
+      "home": "SEA",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 8:20",
       "live": false
     },
     {
       "away": "DAL",
-      "home": "GB",
-      "ascore": "13",
-      "hscore": "23",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "WSH",
-      "home": "SF",
-      "ascore": "17",
-      "hscore": "23",
-      "status": "FINAL",
+      "home": "PHI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
       "live": false
     }
   ]
