@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T23:45:34.859Z",
+  "generatedAt": "2026-10-23T02:16:21.906Z",
   "games": [
     {
       "away": "NE",
       "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:15",
-      "live": false
+      "ascore": "14",
+      "hscore": "27",
+      "status": "Q3 · 7:36",
+      "live": true
     },
     {
       "away": "PIT",
