@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-10-25T20:09:02.205Z",
+  "generatedAt": "2026-10-25T22:53:04.395Z",
   "games": [
     {
-      "away": "SF",
-      "home": "ATL",
-      "ascore": "20",
-      "hscore": "29",
-      "status": "Q4 · 0:45",
+      "away": "DEN",
+      "home": "ARI",
+      "ascore": "30",
+      "hscore": "13",
+      "status": "Q4 · 8:39",
       "live": true
     },
     {
-      "away": "CLE",
-      "home": "TEN",
-      "ascore": "27",
-      "hscore": "24",
-      "status": "FINAL",
-      "live": false
+      "away": "GB",
+      "home": "DET",
+      "ascore": "14",
+      "hscore": "17",
+      "status": "Q4 · 13:44",
+      "live": true
     },
     {
-      "away": "NYG",
-      "home": "HOU",
-      "ascore": "21",
-      "hscore": "21",
-      "status": "Q4 · 0:16",
+      "away": "LAR",
+      "home": "LV",
+      "ascore": "28",
+      "hscore": "12",
+      "status": "Q4 · 14:51",
       "live": true
     },
     {
@@ -30,6 +30,22 @@
       "home": "NO",
       "ascore": "16",
       "hscore": "10",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "SF",
+      "home": "ATL",
+      "ascore": "20",
+      "hscore": "29",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CLE",
+      "home": "TEN",
+      "ascore": "27",
+      "hscore": "24",
       "status": "FINAL",
       "live": false
     },
@@ -66,27 +82,11 @@
       "live": false
     },
     {
-      "away": "DEN",
-      "home": "ARI",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 13:28",
-      "live": true
-    },
-    {
-      "away": "GB",
-      "home": "DET",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 4:25",
-      "live": false
-    },
-    {
-      "away": "LAR",
-      "home": "LV",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 4:25",
+      "away": "NYG",
+      "home": "HOU",
+      "ascore": "27",
+      "hscore": "21",
+      "status": "FINAL/OT",
       "live": false
     },
     {
