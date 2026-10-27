@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-27T01:10:45.836Z",
+  "generatedAt": "2026-10-27T06:56:35.598Z",
   "games": [
-    {
-      "away": "DAL",
-      "home": "PHI",
-      "ascore": "10",
-      "hscore": "14",
-      "status": "Q2 · 7:49",
-      "live": true
-    },
     {
       "away": "NE",
       "home": "CHI",
@@ -110,6 +102,14 @@
       "home": "SEA",
       "ascore": "3",
       "hscore": "20",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "DAL",
+      "home": "PHI",
+      "ascore": "38",
+      "hscore": "21",
       "status": "FINAL",
       "live": false
     }
