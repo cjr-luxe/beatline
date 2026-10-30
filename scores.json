@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T02:13:58.263Z",
+  "generatedAt": "2026-10-30T09:10:51.722Z",
   "games": [
     {
       "away": "CAR",
       "home": "GB",
-      "ascore": "10",
-      "hscore": "20",
-      "status": "Q3 · 7:43",
-      "live": true
+      "ascore": "19",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "BAL",
