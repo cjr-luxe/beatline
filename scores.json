@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-01T00:43:04.780Z",
+  "generatedAt": "2026-11-01T06:57:48.904Z",
   "games": [
-    {
-      "away": "CAR",
-      "home": "GB",
-      "ascore": "19",
-      "hscore": "27",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "BAL",
       "home": "BUF",
@@ -103,6 +95,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "CAR",
+      "home": "GB",
+      "ascore": "19",
+      "hscore": "27",
+      "status": "FINAL",
       "live": false
     },
     {
