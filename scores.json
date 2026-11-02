@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-11-02T01:57:05.648Z",
+  "generatedAt": "2026-11-02T08:41:32.315Z",
   "games": [
     {
-      "away": "PHI",
-      "home": "WSH",
-      "ascore": "10",
-      "hscore": "0",
-      "status": "Q1 · 4:27",
-      "live": true
+      "away": "CHI",
+      "home": "SEA",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "CAR",
+      "home": "GB",
+      "ascore": "19",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "BAL",
@@ -98,19 +106,11 @@
       "live": false
     },
     {
-      "away": "CAR",
-      "home": "GB",
-      "ascore": "19",
+      "away": "PHI",
+      "home": "WSH",
+      "ascore": "10",
       "hscore": "27",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CHI",
-      "home": "SEA",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
       "live": false
     }
   ]
