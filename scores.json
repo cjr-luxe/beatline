@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-03T01:23:46.205Z",
+  "generatedAt": "2026-11-03T08:44:58.192Z",
   "games": [
-    {
-      "away": "CHI",
-      "home": "SEA",
-      "ascore": "0",
-      "hscore": "0",
-      "status": "Q1 · 11:02",
-      "live": true
-    },
     {
       "away": "CAR",
       "home": "GB",
@@ -110,6 +102,14 @@
       "home": "WSH",
       "ascore": "10",
       "hscore": "27",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CHI",
+      "home": "SEA",
+      "ascore": "34",
+      "hscore": "17",
       "status": "FINAL",
       "live": false
     }
