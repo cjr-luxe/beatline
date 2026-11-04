@@ -1,116 +1,124 @@
 {
-  "generatedAt": "2026-11-04T02:48:08.196Z",
+  "generatedAt": "2026-11-04T18:18:31.499Z",
   "games": [
     {
-      "away": "CAR",
-      "home": "GB",
-      "ascore": "19",
-      "hscore": "27",
-      "status": "FINAL",
+      "away": "JAX",
+      "home": "BAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "THU 8:15",
       "live": false
     },
     {
-      "away": "BAL",
-      "home": "BUF",
-      "ascore": "10",
-      "hscore": "36",
-      "status": "FINAL",
+      "away": "CIN",
+      "home": "ATL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 9:30",
       "live": false
     },
     {
-      "away": "TEN",
-      "home": "CIN",
-      "ascore": "36",
-      "hscore": "43",
-      "status": "FINAL/OT",
+      "away": "DAL",
+      "home": "IND",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "ARI",
-      "home": "DAL",
-      "ascore": "33",
-      "hscore": "30",
-      "status": "FINAL/OT",
+      "away": "NYJ",
+      "home": "KC",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "MIN",
-      "home": "DET",
-      "ascore": "15",
-      "hscore": "19",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "LV",
-      "home": "NYJ",
-      "ascore": "38",
-      "hscore": "33",
-      "status": "FINAL",
+      "away": "DET",
+      "home": "MIA",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
       "away": "CLE",
-      "home": "PIT",
-      "ascore": "6",
-      "hscore": "27",
-      "status": "FINAL",
+      "home": "NO",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "ATL",
-      "home": "TB",
-      "ascore": "0",
-      "hscore": "16",
-      "status": "FINAL",
+      "away": "NYG",
+      "home": "PHI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "IND",
-      "home": "JAX",
-      "ascore": "7",
-      "hscore": "42",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "LAC",
-      "home": "LAR",
-      "ascore": "9",
-      "hscore": "24",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "KC",
-      "home": "DEN",
-      "ascore": "24",
-      "hscore": "28",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "NE",
-      "home": "MIA",
-      "ascore": "24",
-      "hscore": "19",
-      "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "PHI",
+      "away": "LAR",
       "home": "WSH",
-      "ascore": "10",
-      "hscore": "27",
-      "status": "FINAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
       "live": false
     },
     {
-      "away": "CHI",
+      "away": "DEN",
+      "home": "CAR",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 1:00",
+      "live": false
+    },
+    {
+      "away": "HOU",
+      "home": "LAC",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:05",
+      "live": false
+    },
+    {
+      "away": "GB",
+      "home": "NE",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:25",
+      "live": false
+    },
+    {
+      "away": "LV",
+      "home": "SF",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:25",
+      "live": false
+    },
+    {
+      "away": "ARI",
       "home": "SEA",
-      "ascore": "34",
-      "hscore": "17",
-      "status": "FINAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 4:25",
+      "live": false
+    },
+    {
+      "away": "TB",
+      "home": "CHI",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "BUF",
+      "home": "MIN",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
       "live": false
     }
   ]
