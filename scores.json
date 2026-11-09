@@ -1,37 +1,21 @@
 {
-  "generatedAt": "2026-11-09T00:13:04.489Z",
+  "generatedAt": "2026-11-09T07:20:31.090Z",
   "games": [
     {
-      "away": "HOU",
-      "home": "LAC",
-      "ascore": "41",
-      "hscore": "22",
-      "status": "Q4 · 4:19",
-      "live": true
+      "away": "BUF",
+      "home": "MIN",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
     },
     {
-      "away": "GB",
-      "home": "NE",
-      "ascore": "45",
-      "hscore": "21",
-      "status": "Q4 · 11:51",
-      "live": true
-    },
-    {
-      "away": "LV",
-      "home": "SF",
-      "ascore": "17",
-      "hscore": "38",
-      "status": "Q4 · 0:38",
-      "live": true
-    },
-    {
-      "away": "ARI",
-      "home": "SEA",
-      "ascore": "3",
-      "hscore": "17",
-      "status": "Q4 · 4:12",
-      "live": true
+      "away": "JAX",
+      "home": "BAL",
+      "ascore": "33",
+      "hscore": "10",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "CIN",
@@ -98,27 +82,43 @@
       "live": false
     },
     {
-      "away": "TB",
-      "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
-      "live": false
-    },
-    {
-      "away": "JAX",
-      "home": "BAL",
-      "ascore": "33",
-      "hscore": "10",
+      "away": "HOU",
+      "home": "LAC",
+      "ascore": "44",
+      "hscore": "22",
       "status": "FINAL",
       "live": false
     },
     {
-      "away": "BUF",
-      "home": "MIN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
+      "away": "GB",
+      "home": "NE",
+      "ascore": "45",
+      "hscore": "27",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LV",
+      "home": "SF",
+      "ascore": "17",
+      "hscore": "38",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "ARI",
+      "home": "SEA",
+      "ascore": "3",
+      "hscore": "17",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "TB",
+      "home": "CHI",
+      "ascore": "24",
+      "hscore": "27",
+      "status": "FINAL",
       "live": false
     }
   ]
