@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-10T00:55:44.787Z",
+  "generatedAt": "2026-11-10T07:51:49.925Z",
   "games": [
-    {
-      "away": "BUF",
-      "home": "MIN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
-      "live": false
-    },
     {
       "away": "JAX",
       "home": "BAL",
@@ -118,6 +110,14 @@
       "home": "CHI",
       "ascore": "24",
       "hscore": "27",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "BUF",
+      "home": "MIN",
+      "ascore": "23",
+      "hscore": "6",
       "status": "FINAL",
       "live": false
     }
