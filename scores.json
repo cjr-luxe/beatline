@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T21:11:50.827Z",
+  "generatedAt": "2026-11-13T02:13:46.754Z",
   "games": [
     {
       "away": "WSH",
       "home": "NYG",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:15",
-      "live": false
+      "ascore": "3",
+      "hscore": "0",
+      "status": "Q2 · 2:42",
+      "live": true
     },
     {
       "away": "NE",
