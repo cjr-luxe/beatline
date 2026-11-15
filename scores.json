@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-15T01:24:24.120Z",
+  "generatedAt": "2026-11-15T08:33:03.249Z",
   "games": [
-    {
-      "away": "WSH",
-      "home": "NYG",
-      "ascore": "24",
-      "hscore": "21",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "NE",
       "home": "DET",
@@ -103,6 +95,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "WSH",
+      "home": "NYG",
+      "ascore": "24",
+      "hscore": "21",
+      "status": "FINAL",
       "live": false
     },
     {
