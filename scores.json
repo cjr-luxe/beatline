@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-11-16T00:29:45.945Z",
+  "generatedAt": "2026-11-16T07:25:58.604Z",
   "games": [
     {
-      "away": "SF",
-      "home": "DAL",
-      "ascore": "46",
-      "hscore": "32",
-      "status": "Q4 · 1:56",
-      "live": true
+      "away": "LAC",
+      "home": "BAL",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "WSH",
+      "home": "NYG",
+      "ascore": "24",
+      "hscore": "21",
+      "status": "FINAL",
+      "live": false
     },
     {
       "away": "NE",
@@ -90,27 +98,19 @@
       "live": false
     },
     {
-      "away": "PIT",
-      "home": "CIN",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
-      "live": false
-    },
-    {
-      "away": "WSH",
-      "home": "NYG",
-      "ascore": "24",
-      "hscore": "21",
+      "away": "SF",
+      "home": "DAL",
+      "ascore": "46",
+      "hscore": "40",
       "status": "FINAL",
       "live": false
     },
     {
-      "away": "LAC",
-      "home": "BAL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
+      "away": "PIT",
+      "home": "CIN",
+      "ascore": "18",
+      "hscore": "38",
+      "status": "FINAL",
       "live": false
     }
   ]
