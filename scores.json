@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-17T01:12:45.760Z",
+  "generatedAt": "2026-11-17T09:50:31.645Z",
   "games": [
-    {
-      "away": "LAC",
-      "home": "BAL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
-      "live": false
-    },
     {
       "away": "WSH",
       "home": "NYG",
@@ -110,6 +102,14 @@
       "home": "CIN",
       "ascore": "18",
       "hscore": "38",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "LAC",
+      "home": "BAL",
+      "ascore": "23",
+      "hscore": "20",
       "status": "FINAL",
       "live": false
     }
