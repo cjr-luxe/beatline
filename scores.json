@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T23:58:24.899Z",
+  "generatedAt": "2026-11-20T05:30:06.716Z",
   "games": [
     {
       "away": "IND",
       "home": "HOU",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:15",
+      "ascore": "3",
+      "hscore": "26",
+      "status": "FINAL",
       "live": false
     },
     {
