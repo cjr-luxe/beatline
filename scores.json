@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-11-22T12:05:28.954Z",
+  "generatedAt": "2026-11-22T20:01:29.940Z",
   "games": [
     {
       "away": "MIA",
       "home": "BUF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "9",
+      "hscore": "20",
+      "status": "Q3 · 9:33",
+      "live": true
     },
     {
       "away": "NO",
       "home": "CHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "10",
+      "hscore": "19",
+      "status": "Q3 · 7:16",
+      "live": true
     },
     {
       "away": "TEN",
       "home": "DAL",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "16",
+      "hscore": "34",
+      "status": "Q3 · 7:30",
+      "live": true
     },
     {
       "away": "TB",
       "home": "DET",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "7",
+      "hscore": "17",
+      "status": "Q3 · 6:37",
+      "live": true
     },
     {
       "away": "ARI",
       "home": "KC",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "7",
+      "hscore": "27",
+      "status": "Q3 · 3:05",
+      "live": true
     },
     {
       "away": "PIT",
       "home": "PHI",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "6",
+      "hscore": "16",
+      "status": "Q3 · 8:33",
+      "live": true
     },
     {
       "away": "BAL",
       "home": "CAR",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 1:00",
-      "live": false
+      "ascore": "26",
+      "hscore": "22",
+      "status": "Q3 · 11:43",
+      "live": true
     },
     {
       "away": "NYJ",
