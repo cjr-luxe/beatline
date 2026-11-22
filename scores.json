@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-22T03:46:58.334Z",
+  "generatedAt": "2026-11-22T12:05:28.954Z",
   "games": [
-    {
-      "away": "IND",
-      "home": "HOU",
-      "ascore": "3",
-      "hscore": "26",
-      "status": "FINAL",
-      "live": false
-    },
     {
       "away": "MIA",
       "home": "BUF",
@@ -95,6 +87,14 @@
       "ascore": "—",
       "hscore": "—",
       "status": "SUN 8:20",
+      "live": false
+    },
+    {
+      "away": "IND",
+      "home": "HOU",
+      "ascore": "3",
+      "hscore": "26",
+      "status": "FINAL",
       "live": false
     },
     {
