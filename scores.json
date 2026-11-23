@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-23T01:12:45.339Z",
+  "generatedAt": "2026-11-23T09:55:59.841Z",
   "games": [
+    {
+      "away": "CIN",
+      "home": "WSH",
+      "ascore": "—",
+      "hscore": "—",
+      "status": "MON 8:15",
+      "live": false
+    },
+    {
+      "away": "IND",
+      "home": "HOU",
+      "ascore": "3",
+      "hscore": "26",
+      "status": "FINAL",
+      "live": false
+    },
     {
       "away": "MIA",
       "home": "BUF",
@@ -84,25 +100,9 @@
     {
       "away": "MIN",
       "home": "SF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "SUN 8:20",
-      "live": false
-    },
-    {
-      "away": "IND",
-      "home": "HOU",
-      "ascore": "3",
-      "hscore": "26",
+      "ascore": "10",
+      "hscore": "35",
       "status": "FINAL",
-      "live": false
-    },
-    {
-      "away": "CIN",
-      "home": "WSH",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
       "live": false
     }
   ]
