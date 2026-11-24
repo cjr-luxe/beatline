@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-23T21:48:36.824Z",
+  "generatedAt": "2026-11-24T05:39:38.706Z",
   "games": [
-    {
-      "away": "CIN",
-      "home": "WSH",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "MON 8:15",
-      "live": false
-    },
     {
       "away": "IND",
       "home": "HOU",
@@ -102,6 +94,14 @@
       "home": "SF",
       "ascore": "10",
       "hscore": "35",
+      "status": "FINAL",
+      "live": false
+    },
+    {
+      "away": "CIN",
+      "home": "WSH",
+      "ascore": "20",
+      "hscore": "22",
       "status": "FINAL",
       "live": false
     }
