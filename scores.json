@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-25T20:16:36.108Z",
+  "generatedAt": "2026-11-26T03:15:49.315Z",
   "games": [
     {
       "away": "GB",
       "home": "LAR",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "WED 8:00",
-      "live": false
+      "ascore": "13",
+      "hscore": "13",
+      "status": "Q3 · 8:34",
+      "live": true
     },
     {
       "away": "CHI",
