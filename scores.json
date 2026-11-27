@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T14:29:01.811Z",
+  "generatedAt": "2026-11-27T23:03:19.418Z",
   "games": [
     {
       "away": "DEN",
       "home": "PIT",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "FRI 3:00",
+      "ascore": "5",
+      "hscore": "27",
+      "status": "FINAL",
       "live": false
     },
     {
