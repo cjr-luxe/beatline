@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-26T22:40:14.305Z",
+  "generatedAt": "2026-11-27T04:37:57.326Z",
   "games": [
-    {
-      "away": "PHI",
-      "home": "DAL",
-      "ascore": "0",
-      "hscore": "14",
-      "status": "Q2 · 12:23",
-      "live": true
-    },
     {
       "away": "CHI",
       "home": "DET",
@@ -18,11 +10,19 @@
       "live": false
     },
     {
+      "away": "PHI",
+      "home": "DAL",
+      "ascore": "39",
+      "hscore": "38",
+      "status": "FINAL",
+      "live": false
+    },
+    {
       "away": "KC",
       "home": "BUF",
-      "ascore": "—",
-      "hscore": "—",
-      "status": "THU 8:20",
+      "ascore": "10",
+      "hscore": "13",
+      "status": "FINAL",
       "live": false
     },
     {
